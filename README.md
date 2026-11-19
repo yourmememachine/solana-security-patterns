@@ -1,5 +1,8 @@
 # Solana Security Patterns
 
+> From the Machine project — a Solana-derived L1 with LaunchGuard. ⭐ https://github.com/yourmememachine/mememachine
+
+
 A field guide to the patterns that break Solana programs — drawn from a
 full self-audit of a real bridge and launch standard, where every pattern
 was either **proven with a runnable proof-of-concept** or **killed with
@@ -73,3 +76,7 @@ New patterns are welcome — with proof. See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
+
+---
+
+If this helped, star Machine: https://github.com/yourmememachine/mememachine
